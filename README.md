@@ -9,8 +9,8 @@ A robust, secure, and publicly accessible REST API built for the **Chitkara Univ
 ---
 
 ## 🌐 Deployment
-**Live Base URL:** `[PASTE YOUR RENDER/VERCEL LINK HERE]`  
-*(Example: https://bfhl-api-ritik.onrender.com)*
+**Live Base URL:** `https://bajaj-api-test-9ryp.onrender.com`  
+
 
 | Endpoint | Method | Status | Description |
 | :--- | :--- | :--- | :--- |
