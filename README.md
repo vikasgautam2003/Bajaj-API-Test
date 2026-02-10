@@ -24,8 +24,6 @@ This API is engineered to meet strict qualifier standards:
 * **Strict JSON Structure:** Consistent response format `{ is_success, official_email, data }`.
 * **AI Integration:** Uses **Llama 3 (via Groq)** for intelligent single-word responses.
 * **Security:**
-    * 🛡️ **Helmet:** Secure HTTP headers.
-    * 🚦 **Rate Limiting:** Protects against DDoS/Abuse (100 req/15min).
     * 🔒 **Environment Variables:** API keys are never hardcoded.
 * **Robust Validation:** Inputs are sanitized to prevent server crashes.
 
